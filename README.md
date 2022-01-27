@@ -1,6 +1,6 @@
 # EmotionPrediction
 A machine learning problem that takes as an input a Frozen or StarWars audio segments and predicts the emotions(happy or neutral) present in the audio signals.
-The interesting  thing about it is the features extracted from the audio signals of Frozen and StarWars audio signals and modelling the features through MLP classifier to predict the emotions.(happy or neutral).
+The interesting  thing about it is the features extracted from the audio signals of Frozen and StarWars audio signals and modelling the features through MLP classifier to predict the emotions(happy or neutral).
 Predicting emotions would be useful in many areas like call centre to predict the emotion of their customers and greet them accordingly.
 Machine Learning pipeline**
 **Input :** 
